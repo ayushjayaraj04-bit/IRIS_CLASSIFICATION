@@ -52,9 +52,3 @@ Model comparison & visualization practice
  File Structure
 ├── IRIS_CLASSIFICATION.ipynb
 └── README.md
- Contributions
-Suggestions and pull requests are welcome.
-
-MIT License
-If you'd like, I can add: - Model comparison tables - Confusion matrix images - Hyperparameter tuning
-section - Better visualizations or an extended write-up
